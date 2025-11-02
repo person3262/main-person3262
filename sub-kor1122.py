@@ -1,1 +1,3 @@
-print(kor1122)
+print ("kor1122")
+
+print ("GUMI")
